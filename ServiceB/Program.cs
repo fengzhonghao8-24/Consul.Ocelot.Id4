@@ -20,7 +20,7 @@ app.UseHealthCheckMiddleware();
 
 app.UseHttpsRedirection();
 
-app.MapGet("/test", (IConfiguration configuration) =>
+app.MapGet("/testB", (IConfiguration configuration) =>
 {
     return $"{Assembly.GetExecutingAssembly().FullName}，当前时间：{DateTime.Now:G};Port：{configuration["ConsulRegisterOptions:Port"]}";
 });

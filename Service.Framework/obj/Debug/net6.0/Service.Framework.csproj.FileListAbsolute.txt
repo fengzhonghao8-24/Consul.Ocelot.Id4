@@ -1,0 +1,12 @@
+D:\Consul.Ocelot\Service.Framework\bin\Debug\net6.0\Service.Framework.deps.json
+D:\Consul.Ocelot\Service.Framework\bin\Debug\net6.0\Service.Framework.dll
+D:\Consul.Ocelot\Service.Framework\bin\Debug\net6.0\Service.Framework.pdb
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.csproj.AssemblyReference.cache
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.AssemblyInfoInputs.cache
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.AssemblyInfo.cs
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.csproj.CoreCompileInputs.cache
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.dll
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\refint\Service.Framework.dll
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\Service.Framework.pdb
+D:\Consul.Ocelot\Service.Framework\obj\Debug\net6.0\ref\Service.Framework.dll

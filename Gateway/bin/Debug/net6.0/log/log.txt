@@ -1,0 +1,100 @@
+2023-02-12 17:15:50,211 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7128
+2023-02-12 17:15:50,226 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:15:50,232 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:15:50,234 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:15:50,236 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:20:13,134 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:7128
+2023-02-12 17:20:13,148 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:20:13,154 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:20:13,156 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:20:13,158 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:20:49,812 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:20:49,830 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:20:49,832 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:20:49,834 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:23:29,659 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:23:29,678 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:23:29,680 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:23:29,682 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:30:19,716 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:30:19,738 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:30:19,741 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:30:19,744 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:32:05,726 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:32:05,746 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:32:05,750 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:32:05,753 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:34:20,908 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:34:20,927 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:34:20,929 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:34:20,930 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:34:26,764 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRH8V62JE:00000002, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.
+2023-02-12 17:34:26,769 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRH8V62JE:00000002, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET
+2023-02-12 17:34:39,118 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRH8V62JE:00000004, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon.ico, verb: GET.
+2023-02-12 17:34:39,121 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRH8V62JE:00000004, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /favicon.ico, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/favicon.ico, request method: GET
+2023-02-12 17:36:34,062 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:36:34,078 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:36:34,080 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:36:34,082 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:36:46,532 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRIGNSE49:00000002, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.
+2023-02-12 17:36:46,538 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRIGNSE49:00000002, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET
+2023-02-12 17:37:07,131 [.NET ThreadPool Worker] WARN  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMOCRIGNSE49:00000003, previousRequestId: no previous request id, message: Client has NOT been authenticated for /ocelot/testA and pipeline error set. Request for authenticated route /ocelot/testA by  was unauthenticated
+2023-02-12 17:37:07,138 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRIGNSE49:00000003, previousRequestId: no previous request id, message: Error Code: UnauthenticatedError Message: Request for authenticated route /ocelot/testA by  was unauthenticated errors found in ResponderMiddleware. Setting error response for request path:/ocelot/testA, request method: GET
+2023-02-12 17:38:51,439 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:38:51,454 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:38:51,455 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:38:51,457 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:41:30,789 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:41:30,807 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:41:30,809 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:41:30,811 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:43:49,152 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:43:49,168 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:43:49,170 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:43:49,172 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:44:36,641 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:44:36,660 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:44:36,662 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:44:36,664 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:44:45,873 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRN0F63TC:00000002, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.
+2023-02-12 17:44:45,878 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRN0F63TC:00000002, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET
+2023-02-12 17:44:48,845 [.NET ThreadPool Worker] WARN  Ocelot.Authentication.Middleware.AuthenticationMiddleware - requestId: 0HMOCRN0F63TF:00000002, previousRequestId: no previous request id, message: Client has NOT been authenticated for /ocelot/testA and pipeline error set. Request for authenticated route /ocelot/testA by  was unauthenticated
+2023-02-12 17:44:48,854 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRN0F63TF:00000002, previousRequestId: no previous request id, message: Error Code: UnauthenticatedError Message: Request for authenticated route /ocelot/testA by  was unauthenticated errors found in ResponderMiddleware. Setting error response for request path:/ocelot/testA, request method: GET
+2023-02-12 17:48:18,447 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:48:18,464 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:48:18,475 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:48:18,478 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:48:24,160 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRP2IV1HO:00000002, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.
+2023-02-12 17:48:24,165 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRP2IV1HO:00000002, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET
+2023-02-12 17:48:41,252 [18] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRP2IV1HR:00000003, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5551/testA
+2023-02-12 17:48:47,526 [7] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRP2IV1HR:00000005, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5551/testA
+2023-02-12 17:49:59,664 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:49:59,685 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:49:59,687 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:49:59,689 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:52:55,669 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:52:55,686 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:52:55,688 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:52:55,690 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:53:33,703 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:53:33,720 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:53:33,722 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:53:33,724 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:57:37,681 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:57:37,698 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:57:37,700 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:57:37,701 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 17:58:51,960 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 17:58:51,975 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 17:58:51,977 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 17:58:51,978 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 18:00:24,303 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5055
+2023-02-12 18:00:24,319 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2023-02-12 18:00:24,322 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2023-02-12 18:00:24,324 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Consul.Ocelot\Gateway\
+2023-02-12 18:00:31,667 [.NET ThreadPool Worker] WARN  Ocelot.DownstreamRouteFinder.Middleware.DownstreamRouteFinderMiddleware - requestId: 0HMOCRVQSLVP4:00000002, previousRequestId: no previous request id, message: DownstreamRouteFinderMiddleware setting pipeline errors. IDownstreamRouteFinder returned Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET.
+2023-02-12 18:00:31,671 [.NET ThreadPool Worker] WARN  Ocelot.Responder.Middleware.ResponderMiddleware - requestId: 0HMOCRVQSLVP4:00000002, previousRequestId: no previous request id, message: Error Code: UnableToFindDownstreamRouteError Message: Failed to match Route configuration for upstream path: /, verb: GET. errors found in ResponderMiddleware. Setting error response for request path:/, request method: GET
+2023-02-12 18:00:36,451 [16] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRVQSLVP7:00000002, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5550/testB
+2023-02-12 18:00:37,614 [6] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRVQSLVP7:00000003, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5550/testB
+2023-02-12 18:00:38,376 [6] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRVQSLVP7:00000004, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5550/testB
+2023-02-12 18:00:39,051 [.NET ThreadPool Worker] WARN  Ocelot.Requester.Middleware.HttpRequesterMiddleware - requestId: 0HMOCRVQSLVP7:00000005, previousRequestId: no previous request id, message: 404 (Not Found) status code, request uri: http://localhost:5550/testB
